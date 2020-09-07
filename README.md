@@ -1,5 +1,3 @@
-# ROBLOX
-PENJUALAN AKUN ROBLOX DAN ROBUX
 from zipfile import ZipFile
 from base64 import b64encode
 from base64 import b64decode
